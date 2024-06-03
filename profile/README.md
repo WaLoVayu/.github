@@ -1,6 +1,6 @@
 # The home of VayuWOA
 
-The woa-vayu organisation on github hosts several repositories by community members in order to provide Windows ARM64 ports to the POCO X3 Pro
+The WOA-vayu organisation on github hosts several repositories by community members in order to provide Windows ARM64 ports to the POCO X3 Pro
 
 ## Our links
 

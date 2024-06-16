@@ -4,7 +4,7 @@ The WOA-vayu organisation on github hosts several repositories by community memb
 
 ## Our links
 
-[Telegram](t.me/winonvayualt)
+[Telegram](https://t.me/winonvayualt)
 
 ## Repositories
 

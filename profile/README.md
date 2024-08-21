@@ -1,16 +1,11 @@
-# The home of WOA-vayu
+# Windows on POCO X3 Pro
 
-The WOA-vayu organisation on github hosts several repositories by community members in order to provide Windows ARM64 ports to the POCO X3 Pro
+## Repositories
+
+We host several repositories containing resources used to provide working ARM64 Windows on the POCO X3 Pro
+
+Most of the stuff you will find here is based on work of [WOA Project](https://github.com/WOA-Project), [WOA msmnile](https://github.com/woa-msmnile) and [Renegade Project](https://github.com/edk2-porting)
 
 ## Our links
 
 [Telegram](https://t.me/winonvayualt)
-
-## Repositories
-
-We host several repositories for providing resources for the WOA-vayu project, as well as several open source projects of various components.
-
-Key projects include:
-
-- UEFI ports (Most of the hard work being graciously done by the [WOA Project](https://github.com/WOA-Project), [WOA msmnile](https://github.com/woa-msmnile) and [Renegade Project](https://github.com/edk2-porting) orgs.)
-- Driver Packages (Again, most of the hard work being graciously done by the [WOA Project](https://github.com/WOA-Project) org)

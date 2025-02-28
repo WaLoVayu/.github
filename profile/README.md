@@ -8,4 +8,4 @@ Most of the stuff you will find here is based on work of [WOA Project](https://g
 
 ## Links
 
-[Our Telegram group](https://t.me/winonvayualt)
+[Our Telegram group](https://t.me/windowsonvayu)
